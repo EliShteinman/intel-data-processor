@@ -41,6 +41,5 @@ def main():
         print()
 
 
-print("CLASSIFIED DATA LEAKED!")
 if __name__ == "__main__":
     main()
